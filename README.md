@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnshumanJangirr
-- 👀 I’m interested in coding and robotics
-- 🌱 I’m currently learning Simple C++
+- 👀 I’m interested in coding and robotics(and is trying to learn it along with school from 7th grade(2021))
+- 🌱 I’m currently learning to use AI 
 - 📞 Contact me: anshumanvj.jangir@gmail.com
 - 😄 Pronouns: he/him
   
